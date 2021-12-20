@@ -32,7 +32,7 @@ const NasEpfl =  {
 
 const SwitchEpfl = {
     Style : 'CategoryCost',
-    Provider : "Switch-EPFL",
+    Provider : "SWITCHdrive",
     Name:'Online Storage',
     ByYear:true,
     Url : [
@@ -40,7 +40,7 @@ const SwitchEpfl = {
     ],
     CatName:'Options',
     Cat:{
-        'Cloud Based max 50GB':0,
+        'Cloud Based max 100GB':0,
     },
     CatUnit:'CHF',
 };
